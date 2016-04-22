@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/bonded_device" android:title="@string/bonded_device"
+        android:orderInCategory="100" app:showAsAction="always|withText" />
+
+    <item android:id="@+id/disconnect" android:title="@string/disconnect"
+        android:orderInCategory="100" app:showAsAction="always|withText" />
+
+    <item android:id="@+id/say_hello" android:title="@string/hello"
+        android:orderInCategory="100" app:showAsAction="always|withText" />
+
+    <item android:id="@+id/say_hi" android:title="@string/hi"
+        android:orderInCategory="100" app:showAsAction="always|withText" />
+</menu>

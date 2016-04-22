@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlueToothClass4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="visiblity">打开可见</string>
+    <string name="find_device">查找设备</string>
+    <string name="bonded_device">已绑定设备</string>
+    <string name="waiting">等待连接</string>
+    <string name="stop_waiting">停止监听</string>
+    <string name="disconnect">断开</string>
+    <string name="hello">Hello</string>
+    <string name="hi">Hi</string>
+</resources>
